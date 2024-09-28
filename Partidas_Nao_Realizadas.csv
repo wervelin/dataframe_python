@@ -1,0 +1,111 @@
+Rodada,Mandante,Visitante,Data
+28,Palmeiras,Atlético-MG,28/09
+28,Botafogo,Grêmio,28/09
+28,Juventude,Bragantino,29/09
+28,São Paulo,Corinthians,29/09
+28,Fortaleza,Cuiabá,29/09
+28,Atlético-GO,Fluminense,29/09
+28,Internacional,Vitória,29/09
+28,Cruzeiro,Vasco,29/09
+28,Bahia,Criciúma,29/09
+28,Flamengo,Athletico-PR,29/09
+29,Criciúma,Atlético-GO,03/10
+29,Fluminense,Cruzeiro,03/10
+29,Grêmio,Fortaleza,04/10
+29,Atlético-MG,Vitória,05/10
+29,Bragantino,Palmeiras,05/10
+29,Athletico-PR,Botafogo,05/10
+29,Bahia,Flamengo,05/10
+29,Corinthians,Internacional,05/10
+29,Cuiabá,São Paulo,05/10
+29,Vasco,Juventude,05/10
+30,Internacional,Grêmio,20/10
+30,Cruzeiro,Bahia,20/10
+30,Vitória,Bragantino,20/10
+30,Flamengo,Fluminense,20/10
+30,Botafogo,Criciúma,20/10
+30,Corinthians,Athletico-PR,20/10
+30,São Paulo,Vasco,20/10
+30,Fortaleza,Atlético-MG,20/10
+30,Atlético-GO,Cuiabá,20/10
+30,Juventude,Palmeiras,20/10
+31,Grêmio,Atlético-GO,26/10
+31,Atlético-MG,Internacional,26/10
+31,Vitória,Fluminense,26/10
+31,Flamengo,Juventude,26/10
+31,Vasco,Bahia,26/10
+31,Palmeiras,Fortaleza,26/10
+31,Bragantino,Botafogo,26/10
+31,Athletico-PR,Cruzeiro,26/10
+31,Cuiabá,Corinthians,26/10
+31,Criciúma,São Paulo,26/10
+32,Internacional,Criciúma,06/11
+32,Cruzeiro,Flamengo,06/11
+32,Bahia,São Paulo,06/11
+32,Fluminense,Grêmio,06/11
+32,Botafogo,Vasco,06/11
+32,Corinthians,Palmeiras,06/11
+32,Bragantino,Cuiabá,06/11
+32,Athletico-PR,Vitória,06/11
+32,Atlético-GO,Atlético-MG,06/11
+32,Juventude,Fortaleza,06/11
+33,Internacional,Fluminense,13/11
+33,Cruzeiro,Criciúma,13/11
+33,Vitória,Corinthians,13/11
+33,Flamengo,Atlético-MG,13/11
+33,Botafogo,Cuiabá,13/11
+33,Palmeiras,Grêmio,13/11
+33,São Paulo,Athletico-PR,13/11
+33,Fortaleza,Vasco,13/11
+33,Atlético-GO,Bragantino,13/11
+33,Juventude,Bahia,13/11
+34,Grêmio,Juventude,20/11
+34,Atlético-MG,Botafogo,20/11
+34,Bahia,Palmeiras,20/11
+34,Fluminense,Fortaleza,20/11
+34,Vasco,Internacional,20/11
+34,Corinthians,Cruzeiro,20/11
+34,Bragantino,São Paulo,20/11
+34,Athletico-PR,Atlético-GO,20/11
+34,Cuiabá,Flamengo,20/11
+34,Criciúma,Vitória,20/11
+35,Internacional,Bragantino,24/11
+35,Cruzeiro,Grêmio,24/11
+35,Bahia,Athletico-PR,24/11
+35,Fluminense,Criciúma,24/11
+35,Botafogo,Vitória,24/11
+35,Corinthians,Vasco,24/11
+35,São Paulo,Atlético-MG,24/11
+35,Fortaleza,Flamengo,24/11
+35,Atlético-GO,Palmeiras,24/11
+35,Juventude,Cuiabá,24/11
+36,Grêmio,São Paulo,01/12
+36,Atlético-MG,Juventude,01/12
+36,Vitória,Fortaleza,01/12
+36,Flamengo,Internacional,01/12
+36,Vasco,Atlético-GO,01/12
+36,Palmeiras,Botafogo,01/12
+36,Bragantino,Cruzeiro,01/12
+36,Athletico-PR,Fluminense,01/12
+36,Cuiabá,Bahia,01/12
+36,Criciúma,Corinthians,01/12
+37,Internacional,Botafogo,04/12
+37,Cruzeiro,Palmeiras,04/12
+37,Vitória,Grêmio,04/12
+37,Fluminense,Cuiabá,04/12
+37,Vasco,Atlético-MG,04/12
+37,Corinthians,Bahia,04/12
+37,São Paulo,Juventude,04/12
+37,Athletico-PR,Bragantino,04/12
+37,Atlético-GO,Fortaleza,04/12
+37,Criciúma,Flamengo,04/12
+38,Grêmio,Corinthians,08/12
+38,Atlético-MG,Athletico-PR,08/12
+38,Bahia,Atlético-GO,08/12
+38,Flamengo,Vitória,08/12
+38,Botafogo,São Paulo,08/12
+38,Palmeiras,Fluminense,08/12
+38,Bragantino,Criciúma,08/12
+38,Fortaleza,Internacional,08/12
+38,Cuiabá,Vasco,08/12
+38,Juventude,Cruzeiro,08/12
